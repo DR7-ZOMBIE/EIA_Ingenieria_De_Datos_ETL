@@ -23,12 +23,15 @@ El objetivo final de los datos es un esquema OLAP (Online Analytical Processing)
 ---
 
 ## **4. Esquema Visual del Diseño de la ETL**
-![Esquema Visual](path/to/your/image.png)
+
+![image](https://github.com/user-attachments/assets/c21221d1-a75d-44f2-a50e-1f5a7a4bbc8a)
 
 ---
 
 ## **5. Modelo Relacional Obtenido**
-![Modelo Relacional](path/to/your/model_image.png)
+
+![image](https://github.com/user-attachments/assets/6d9aedc3-60cd-4176-93da-cad3f70b3d01)
+
 
 ---
 
